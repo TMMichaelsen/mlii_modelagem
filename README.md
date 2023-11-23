@@ -13,7 +13,8 @@
 
 ## Instruções para execução do Jupyter Notebook
 
-Dataset Kaggle utilizado: [Video Game Sales(https://www.kaggle.com/datasets/gregorut/videogamesales 'Kaggle')
+Dataset Kaggle utilizado: [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales/, 'Kaggle')
+
 
 Para o uso com Jupyter Notebook ou Google Colaboratory, utilize o JSON referente a Public API de sua conta Kaggle. Leia mais em [Public API](https://www.kaggle.com/docs/api 'Kaggle').
 
